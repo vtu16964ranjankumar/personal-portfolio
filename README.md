@@ -1,4 +1,4 @@
 # personal-portfolio
 
 
-currently i am working on this project please visit after completion of this repositories
+Currently, This project is in progress stage and will complete soon.
